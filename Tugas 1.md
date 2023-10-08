@@ -14,7 +14,7 @@ Pendekatan Berbasis Konvolusi untuk Peningkatan Kualitas Citra Digital
 Keterbatasan Peralatan Pemotretan: Peralatan pemotretan seperti kamera ponsel memiliki keterbatasan dalam menghasilkan citra berkualitas tinggi. Peningkatan kualitas citra di tingkat pemrosesan dapat mengatasi keterbatasan ini.</p>
 
 ## Research Questions
-<ul>
+<ul align="justify">
 <li>Bagaimana Efektivitas Pendekatan Berbasis Konvolusi dalam Mengurangi Noise dalam Citra Digital?</li>
 <li>Apa Dampak Penggunaan Pendekatan Berbasis Konvolusi terhadap Ketajaman Citra Digital?</li>
 <li>Bagaimana cara agar dapat meningkatkan ketajaman citra digital dengan menggunakan pendekatan berbasis konvolusi, dan apa pengaruhnya terhadap detail citra?</li>
