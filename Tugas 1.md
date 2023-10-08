@@ -10,8 +10,8 @@ Kelas : D081
 Pendekatan Berbasis Konvolusi untuk Peningkatan Kualitas Citra Digital
 
 ## Persoalan Praktis 
-Kualitas Citra yang Terganggu oleh Noise: Noise dalam citra digital, baik disebabkan oleh sensor atau lingkungan, sering mengurangi kualitas citra. Solusi untuk mengurangi noise ini sangat diperlukan dalam berbagai aplikasi.
-Keterbatasan Peralatan Pemotretan: Peralatan pemotretan seperti kamera ponsel memiliki keterbatasan dalam menghasilkan citra berkualitas tinggi. Peningkatan kualitas citra di tingkat pemrosesan dapat mengatasi keterbatasan ini.
+<p align="justify">Kualitas Citra yang Terganggu oleh Noise: Noise dalam citra digital, baik disebabkan oleh sensor atau lingkungan, sering mengurangi kualitas citra. Solusi untuk mengurangi noise ini sangat diperlukan dalam berbagai aplikasi.
+Keterbatasan Peralatan Pemotretan: Peralatan pemotretan seperti kamera ponsel memiliki keterbatasan dalam menghasilkan citra berkualitas tinggi. Peningkatan kualitas citra di tingkat pemrosesan dapat mengatasi keterbatasan ini.</p>
 
 ## Research Questions
 <ul>
@@ -21,7 +21,9 @@ Keterbatasan Peralatan Pemotretan: Peralatan pemotretan seperti kamera ponsel me
 </ul>
 
 ## Teori Terkait
-Teori Konvolusi 
-Teori Pengolahan Citra
-Teori Pengolahan Citra Warna
-Teori Pengukuran Noise
+<ul>
+<li>Teori Konvolusi</li> 
+<li>Teori Pengolahan Citra</li>
+<li>Teori Pengolahan Citra Warna</li>
+<li>Teori Pengukuran Noise</li>
+</ul>
